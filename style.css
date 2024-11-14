@@ -2,3 +2,18 @@ body {
     color:aquamarine;
     background:black
 }
+
+header {
+    border-bottom: solid 2px rgb(105, 201, 240);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(32, 213, 236);
+}
+
+section {
+    background: rgb(184,156,213);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
